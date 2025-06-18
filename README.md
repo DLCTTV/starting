@@ -1,3 +1,3 @@
 Usage
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. clone repo git clone https://github.com/DLCTTV/starting.git
+1. clone repo git clone <u>https://github.com/DLCTTV/starting.git</u>
