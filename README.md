@@ -1,2 +1,3 @@
 Usage
-clone repo git clone https://github.com/thegoodhackertv/hackerpwm.git
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. clone repo git clone https://github.com/DLCTTV/starting.git
